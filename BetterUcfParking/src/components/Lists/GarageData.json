@@ -1,0 +1,84 @@
+{
+    "garages": [
+        {
+            "title": "A",
+            "space": 1623,
+            "available": 805
+        },
+        {
+            "title": "B",
+            "space": 1259,
+            "available": 128
+        },
+        {
+            "title": "C",
+            "space": 1852,
+            "available": 1540
+        },
+        {
+            "title": "D",
+            "space": 1241,
+            "available": 701
+        },
+        {
+            "title": "H",
+            "space": 1284,
+            "available": 87
+        },
+        {
+            "title": "I",
+            "space": 1231,
+            "available": 457
+        },
+        {
+            "title": "Libra",
+            "space": 1007,
+            "available": 199
+        },
+        {
+            "title": "Test Full",
+            "space": 2500,
+            "available": 0
+        },
+        {
+            "title": "Test 1",
+            "space": 100,
+            "available": 5
+        },
+        {
+            "title": "Test 2",
+            "space": 100,
+            "available": 25
+        },
+        {
+            "title": "Test 2.5",
+            "space": 100,
+            "available": 45
+        },
+        {
+            "title": "Test 3",
+            "space": 100,
+            "available": 50
+        },
+        {
+            "title": "Test 3.1",
+            "space": 100,
+            "available": 49
+        },
+        {
+            "title": "Test 3.5",
+            "space": 100,
+            "available": 55
+        },
+        {
+            "title": "Test 4",
+            "space": 100,
+            "available": 75
+        },
+        {
+            "title": "Test Empty",
+            "space": 2500,
+            "available": 2500
+        }
+    ]
+}
